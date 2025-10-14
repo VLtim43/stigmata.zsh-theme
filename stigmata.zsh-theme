@@ -26,8 +26,8 @@ local reset="%{$reset_color%}"
 # ───────────────────────────────────────────────────────────────────
 ZSH_THEME_GIT_PROMPT_PREFIX="${bracket_color}-⁅ ${reset}${bracket_color}%{$fg_bold[cyan]%}"
 ZSH_THEME_GIT_PROMPT_SUFFIX="${reset}${bracket_color}⁆"
-ZSH_THEME_GIT_PROMPT_CLEAN=" %{$fg[green]%}◉${reset}"
-ZSH_THEME_GIT_PROMPT_DIRTY=" %{$fg[red]%}✽${reset}"
+ZSH_THEME_GIT_PROMPT_CLEAN=" %{$fg[green]%}◉ ${reset}"
+ZSH_THEME_GIT_PROMPT_DIRTY=" %{$fg[red]%}✽ ${reset}"
 
 # ───────────────────────────────────────────────────────────────────
 # Main Prompt
